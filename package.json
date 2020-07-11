@@ -1,0 +1,23 @@
+{
+  "name": "lilcharlies",
+  "version": "1.0.0",
+  "description": "Demo Node js, Express built website show casing my Brother's Custom made knifes.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon --ignore feedback.json server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamtoddp/LilCharlies.git"
+  },
+  "author": "Todd P Payne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamtoddp/LilCharlies/issues"
+  },
+  "homepage": "https://github.com/iamtoddp/LilCharlies#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
